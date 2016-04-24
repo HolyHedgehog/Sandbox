@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sandbox_v0_66">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/sandbox_v0_66.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
